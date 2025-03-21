@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.idea
+/.vscode
+/src-tauri/target
+/src-tauri/.cargo
+.DS_Store
